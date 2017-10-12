@@ -1,4 +1,4 @@
-package Automation_Topic;
+package irctc;
 
 public class EncapsulationInSelenium 
 {
